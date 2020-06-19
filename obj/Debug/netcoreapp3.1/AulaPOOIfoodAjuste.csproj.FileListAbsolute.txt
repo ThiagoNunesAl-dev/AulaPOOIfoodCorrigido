@@ -1,0 +1,13 @@
+D:\Thiago\Projetos\C#\AulaPOOIfoodAjuste\obj\Debug\netcoreapp3.1\AulaPOOIfoodAjuste.csprojAssemblyReference.cache
+D:\Thiago\Projetos\C#\AulaPOOIfoodAjuste\obj\Debug\netcoreapp3.1\AulaPOOIfoodAjuste.csproj.CoreCompileInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOIfoodAjuste\obj\Debug\netcoreapp3.1\AulaPOOIfoodAjuste.AssemblyInfoInputs.cache
+D:\Thiago\Projetos\C#\AulaPOOIfoodAjuste\obj\Debug\netcoreapp3.1\AulaPOOIfoodAjuste.AssemblyInfo.cs
+D:\Thiago\Projetos\C#\AulaPOOIfoodAjuste\bin\Debug\netcoreapp3.1\AulaPOOIfoodAjuste.exe
+D:\Thiago\Projetos\C#\AulaPOOIfoodAjuste\bin\Debug\netcoreapp3.1\AulaPOOIfoodAjuste.deps.json
+D:\Thiago\Projetos\C#\AulaPOOIfoodAjuste\bin\Debug\netcoreapp3.1\AulaPOOIfoodAjuste.runtimeconfig.json
+D:\Thiago\Projetos\C#\AulaPOOIfoodAjuste\bin\Debug\netcoreapp3.1\AulaPOOIfoodAjuste.runtimeconfig.dev.json
+D:\Thiago\Projetos\C#\AulaPOOIfoodAjuste\bin\Debug\netcoreapp3.1\AulaPOOIfoodAjuste.dll
+D:\Thiago\Projetos\C#\AulaPOOIfoodAjuste\bin\Debug\netcoreapp3.1\AulaPOOIfoodAjuste.pdb
+D:\Thiago\Projetos\C#\AulaPOOIfoodAjuste\obj\Debug\netcoreapp3.1\AulaPOOIfoodAjuste.dll
+D:\Thiago\Projetos\C#\AulaPOOIfoodAjuste\obj\Debug\netcoreapp3.1\AulaPOOIfoodAjuste.pdb
+D:\Thiago\Projetos\C#\AulaPOOIfoodAjuste\obj\Debug\netcoreapp3.1\AulaPOOIfoodAjuste.genruntimeconfig.cache
